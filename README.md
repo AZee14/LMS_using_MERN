@@ -4,14 +4,14 @@ A full-fledged Learning Management System built with the MERN stack (MongoDB, Ex
 
 ---
 
-##Project Overview
+## Project Overview
 
 EduVerse is a comprehensive e-learning platform that enables:
 - **Students** to browse, enroll in, and track courses
 - **Instructors** to create and manage courses with lessons
 - **Admins** to oversee the entire platform with analytics
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Frontend
 - React.js (Vite)
