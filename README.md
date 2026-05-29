@@ -4,7 +4,7 @@ A full-fledged Learning Management System built with the MERN stack (MongoDB, Ex
 
 ---
 
-## 🚀 Project Overview
+##Project Overview
 
 EduVerse is a comprehensive e-learning platform that enables:
 - **Students** to browse, enroll in, and track courses
@@ -33,7 +33,7 @@ EduVerse is a comprehensive e-learning platform that enables:
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 lms-mern/
@@ -76,7 +76,7 @@ lms-mern/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 - **Node.js** (v16+)
@@ -122,7 +122,7 @@ The frontend will run on `http://localhost:5173` and the backend on `http://loca
 
 ---
 
-## 👥 User Roles
+## User Roles
 
 | Role | Capabilities |
 |------|-------------|
@@ -172,7 +172,7 @@ The frontend will run on `http://localhost:5173` and the backend on `http://loca
 
 ---
 
-## 🔐 Security Features
+## Security Features
 - Password hashing with **Bcrypt**
 - JWT-based authentication
 - Protected routes (frontend & backend)
@@ -182,7 +182,7 @@ The frontend will run on `http://localhost:5173` and the backend on `http://loca
 
 ---
 
-## 📊 Database Models
+## Database Models
 
 ### User Model
 - `name`, `email`, `password` (hashed), `role` (student/instructor/admin), `timestamps`
@@ -195,7 +195,7 @@ The frontend will run on `http://localhost:5173` and the backend on `http://loca
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 For deployment, update the `.env` file:
 1. Replace `MONGO_URI` with your MongoDB Atlas connection string
@@ -204,5 +204,5 @@ For deployment, update the `.env` file:
 
 ---
 
-## 📝 License
+## License
 This project is for educational purposes.
